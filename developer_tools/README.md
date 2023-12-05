@@ -202,3 +202,7 @@ The application panel gives you access to the storage (cookies, sessions, cacheâ
 
 What is the only key present in the session storage for this page?
 ```
+32. Service workers
+```
+Does this page have any service workers? Yes or No
+```
