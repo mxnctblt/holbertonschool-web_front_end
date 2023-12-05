@@ -73,3 +73,9 @@ What is the equivalent value of the hexadecimal background-color, in HSL?
 ```
 What is the max-width for the first .container in the section “About”? (your browser width must be between 1250px and 1440px and with a zoom at 100%)
 ```
+10. Moving around
+```
+Switch the section “About” and “Portfolio”
+
+Take a screenshot of it
+```
