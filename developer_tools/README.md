@@ -120,3 +120,7 @@ What is the number of requests done when accessing this page?
 
 Take a screenshot of it
 ```
+18. Number of CSS files
+```
+How many CSS resources are loaded on this page?
+```
