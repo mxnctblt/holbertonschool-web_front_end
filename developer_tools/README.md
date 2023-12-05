@@ -132,3 +132,7 @@ How many image resources are loaded on this page?
 ```
 What is the type value of the favicon image?
 ```
+21. Font library
+```
+Holberton School website uses a font library for their icons, which one is it?
+```
