@@ -80,3 +80,10 @@ Go to https://dev-tools.hbtn.info/
 
 How many times click events are referenced in JavaScript files?
 ```
+8. What is the HSL code
+```
+Go to https://dev-tools.hbtn.info/
+
+Select the primary button “Send”
+What is the equivalent value of the hexadecimal background-color, in HSL?
+```
