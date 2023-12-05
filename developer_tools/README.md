@@ -43,3 +43,9 @@ Go to https://dev-tools.hbtn.info/
 
 Force the hover state of the “cake” block in the section Portfolio Take a screenshot of it
 ```
+3. Copy all the styles of the button
+```
+Go to https://dev-tools.hbtn.info/
+
+Select the Download me! and copy all the CSS styling that is applied on this button.
+```
