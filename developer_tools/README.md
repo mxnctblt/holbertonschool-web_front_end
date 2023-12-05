@@ -31,10 +31,15 @@ Go to https://dev-tools.hbtn.info/
 
 Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
 ```
-
 1. Change the background color
 ```
 Go to https://dev-tools.hbtn.info/
 
 Change the background-color of the body to use #4233bd Take a screenshot of the PORTFOLIO section
+```
+2. Force element state
+```
+Go to https://dev-tools.hbtn.info/
+
+Force the hover state of the “cake” block in the section Portfolio Take a screenshot of it
 ```
