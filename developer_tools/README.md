@@ -107,3 +107,9 @@ B. Material Design
 C. Bootstrap
 D. Angular JS
 ```
+16. Homepage weight
+```
+What is the total weight of the page (with all the elements)?
+
+Take a screenshot of it
+```
