@@ -175,3 +175,9 @@ B. rel="noreferrer"
 C. A and B
 D. rel = "nofollow"
 ```
+28. SEO
+```
+Which <a> links don’t have enough text description?
+
+Take a screenshot of it
+```
