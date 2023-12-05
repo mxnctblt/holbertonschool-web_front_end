@@ -57,3 +57,10 @@ Go to https://dev-tools.hbtn.info/
 - All outlined buttons light (btn-outline-light) should have #0020aa for the text color
 - Screenshot all buttons that changed and merge it to one image
 ```
+5. Remove part of the website
+```
+Go to https://dev-tools.hbtn.info/
+
+Remove the div of the “cake” box in the section Portfolio
+Take a screenshot of it
+```
