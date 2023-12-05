@@ -97,3 +97,13 @@ What does it return?
 ```
 Write in the console console.log(document.title), what is returned?
 ```
+15. Holberton web framework
+```
+Which front-end framework could we guess this page is using?
+
+In your answer file only put the letter of the multiple choice answer from below:
+A. React JS
+B. Material Design
+C. Bootstrap
+D. Angular JS
+```
