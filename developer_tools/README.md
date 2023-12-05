@@ -79,3 +79,7 @@ Switch the section “About” and “Portfolio”
 
 Take a screenshot of it
 ```
+11. Coverage
+```
+How many bytes that freelancer.css covers?
+```
