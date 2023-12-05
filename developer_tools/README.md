@@ -87,3 +87,9 @@ How many bytes that freelancer.css covers?
 ```
 Take a screenshot of the homepage, only emulation the CSS print version of the website.
 ```
+13. Using the console
+```
+Select the Avatar image in the header and type $0 in the console. Enter.
+
+What does it return?
+```
