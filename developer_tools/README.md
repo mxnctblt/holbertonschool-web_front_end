@@ -190,3 +190,9 @@ The sources panel allow you to edit files, add breakpoints to analyse your JavaS
 - Run the code
 - Take a screenshot of the result in your console
 ```
+30. Block CSS files
+```
+Block all CSS requests
+
+Take a screenshot of it
+```
