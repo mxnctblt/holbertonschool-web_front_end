@@ -124,3 +124,7 @@ Take a screenshot of it
 ```
 How many CSS resources are loaded on this page?
 ```
+19. Number of images
+```
+How many image resources are loaded on this page?
+```
