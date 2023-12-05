@@ -164,6 +164,14 @@ C. Background and foreground colors do not have a sufficient contrast ratio.
 26. No alt
 ```
 Which classes are on the images that have no alt attribute?
+```
+27. Best practices
+```
+Which attribute is missing on all the links with the target _blank?
 
-Your answer file must contains all classes, example: .my_class.my_second if 2 classes
+In your answer file only put the letter of the multiple choice answer from below:
+A. rel="noopener"
+B. rel="noreferrer"
+C. A and B
+D. rel = "nofollow"
 ```
