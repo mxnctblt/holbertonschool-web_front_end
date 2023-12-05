@@ -181,3 +181,12 @@ Which <a> links don’t have enough text description?
 
 Take a screenshot of it
 ```
+29. Sources
+```
+The sources panel allow you to edit files, add breakpoints to analyse your JavaScript code and create snippets.
+
+- Create a new snippet called allcolors.js
+- Copy-paste the code on that page
+- Run the code
+- Take a screenshot of the result in your console
+```
