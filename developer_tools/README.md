@@ -161,3 +161,9 @@ A. Image elements do not have [alt] attributes
 B. Links do not have a discernible name
 C. Background and foreground colors do not have a sufficient contrast ratio.
 ```
+26. No alt
+```
+Which classes are on the images that have no alt attribute?
+
+Your answer file must contains all classes, example: .my_class.my_second if 2 classes
+```
