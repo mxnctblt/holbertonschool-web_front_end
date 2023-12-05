@@ -146,3 +146,9 @@ What is the notation for Performance (for desktop mode and no throttling - also 
 
 Take a screenshot of it
 ```
+24. Static assets
+```
+How many static assets need a better cache policy?
+
+Take a screenshot of it
+```
