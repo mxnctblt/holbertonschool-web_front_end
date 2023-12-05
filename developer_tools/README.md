@@ -206,3 +206,9 @@ What is the only key present in the session storage for this page?
 ```
 Does this page have any service workers? Yes or No
 ```
+33. Security
+```
+The security panel allows you to make sure HTTS is properly implement on a webpage.
+
+Which organization issued the SSL certificate for this page?
+```
