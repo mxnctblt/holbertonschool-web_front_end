@@ -212,3 +212,9 @@ The security panel allows you to make sure HTTS is properly implement on a webpa
 
 Which organization issued the SSL certificate for this page?
 ```
+34. Expiration date
+```
+When does the SSL certificate expire?
+
+Take a screenshot of it
+```
