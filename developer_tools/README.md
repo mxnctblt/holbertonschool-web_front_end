@@ -196,3 +196,9 @@ Block all CSS requests
 
 Take a screenshot of it
 ```
+31. Application panel
+```
+The application panel gives you access to the storage (cookies, sessions, cache…) and some other options as Services Workers and more recently, notifications.
+
+What is the only key present in the session storage for this page?
+```
