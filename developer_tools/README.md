@@ -49,3 +49,11 @@ Go to https://dev-tools.hbtn.info/
 
 Select the Download me! and copy all the CSS styling that is applied on this button.
 ```
+4. Change button styles
+```
+Go to https://dev-tools.hbtn.info/
+
+- All primary buttons (btn-primary) should have the #0080ee color as a background color
+- All outlined buttons light (btn-outline-light) should have #0020aa for the text color
+- Screenshot all buttons that changed and merge it to one image
+```
