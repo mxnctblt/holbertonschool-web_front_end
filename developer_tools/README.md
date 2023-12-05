@@ -113,3 +113,10 @@ What is the total weight of the page (with all the elements)?
 
 Take a screenshot of it
 ```
+
+17. Number of requests
+```
+What is the number of requests done when accessing this page?
+
+Take a screenshot of it
+```
