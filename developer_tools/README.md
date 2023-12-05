@@ -32,3 +32,9 @@ Go to https://dev-tools.hbtn.info/
 Take a screenshot of the website using the device toolbar Choose iPhone X and show the size in your screenshot (selected device or size in pixel of the rendering)
 ```
 
+1. Change the background color
+```
+Go to https://dev-tools.hbtn.info/
+
+Change the background-color of the body to use #4233bd Take a screenshot of the PORTFOLIO section
+```
