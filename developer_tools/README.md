@@ -83,3 +83,7 @@ Take a screenshot of it
 ```
 How many bytes that freelancer.css covers?
 ```
+12. Emulate the print version of the webpage
+```
+Take a screenshot of the homepage, only emulation the CSS print version of the website.
+```
