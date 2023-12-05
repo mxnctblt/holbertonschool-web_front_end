@@ -93,3 +93,7 @@ Select the Avatar image in the header and type $0 in the console. Enter.
 
 What does it return?
 ```
+14. Write code in the console
+```
+Write in the console console.log(document.title), what is returned?
+```
