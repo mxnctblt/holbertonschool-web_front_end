@@ -128,3 +128,7 @@ How many CSS resources are loaded on this page?
 ```
 How many image resources are loaded on this page?
 ```
+20. Favicon image type
+```
+What is the type value of the favicon image?
+```
