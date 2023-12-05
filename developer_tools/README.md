@@ -74,3 +74,9 @@ Go to https://dev-tools.hbtn.info/
 
 Which file is coming from that declaration?
 ```
+7. How many listeners
+```
+Go to https://dev-tools.hbtn.info/
+
+How many times click events are referenced in JavaScript files?
+```
