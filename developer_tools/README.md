@@ -140,3 +140,9 @@ Holberton School website uses a font library for their icons, which one is it?
 ```
 What is the name of the resource that generates 1 XHR calls?
 ```
+23. Audits panel
+```
+What is the notation for Performance (for desktop mode and no throttling - also called Lighthouse)?
+
+Take a screenshot of it
+```
