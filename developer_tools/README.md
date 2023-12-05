@@ -136,3 +136,7 @@ What is the type value of the favicon image?
 ```
 Holberton School website uses a font library for their icons, which one is it?
 ```
+22. XHR calls
+```
+What is the name of the resource that generates 1 XHR calls?
+```
