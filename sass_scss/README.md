@@ -65,3 +65,10 @@ Write a Sass file that assigns:
 - Text color #FF0000 to any elements of class .red that are the first children of the body
 - You must use nested declarations
 ```
+6. Nested hover
+```
+Write a Sass file that assigns:
+- Text color #FF0000 to button tags
+- When the user hovers over button tags, text color should change to #00FF00
+- You must use nested declarations
+```
