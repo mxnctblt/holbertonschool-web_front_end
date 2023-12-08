@@ -80,3 +80,10 @@ Write a Sass file that assigns:
 - Font size 12px to h1 tags of class .smaller inside body tags
 - You must use nested declarations
 ```
+8. Margin mixin
+```
+Write a Sass file that assigns:
+- Margin left and right at 10px to body tags
+- Margin left and right at 15px to div tags
+- You must use a mixin
+```

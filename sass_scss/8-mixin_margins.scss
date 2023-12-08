@@ -1,0 +1,16 @@
+/* using a mixin for margins */
+@mixin marbody {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+@mixin mardiv {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+body {
+    @include marbody;
+}
+div {
+    @include mardiv;
+}
