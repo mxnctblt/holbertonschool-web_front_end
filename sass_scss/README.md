@@ -87,3 +87,10 @@ Write a Sass file that assigns:
 - Margin left and right at 15px to div tags
 - You must use a mixin
 ```
+9. Extended
+```
+Write a Sass file that assigns:
+- Font size 12px to all tags of class .info
+- Text color #00FF00 to all tags of class .success and extend style of the class .info
+- Text color #FF0000 to all tags of class .warning and extend style of the class .info
+```
