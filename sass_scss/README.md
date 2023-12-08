@@ -144,3 +144,8 @@ Write a Sass file that assigns:
 - Font size 14px to h1 tags, when your screen width is smaller than 320px
 - Text color #1D1D1D to h1.small tags, when your screen width is smaller than 320px
 ```
+16. Sort!
+file: `103-sort_strings.scss`
+```
+Write a Sass file that sorts the variable $list_to_sort and prints the sorted list in the debug output.
+```
