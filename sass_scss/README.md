@@ -44,3 +44,10 @@ Write a Sass file that assigns:
 - The background color #6D6D6D to the HTML tags body and h2
 - You must use 2 Sass variables
 ```
+3. Nested tag
+```
+Write a Sass file that assigns:
+- No margin or padding in body tags
+- Margin 10px to all of the p tags inside body tags
+- You must use nested declarations
+```
