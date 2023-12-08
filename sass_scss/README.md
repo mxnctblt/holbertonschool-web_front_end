@@ -102,3 +102,9 @@ Write a Sass file that assigns:
 - Text color $blue from 10-colors.scss to the class .blue
 - You must use @import
 ```
+11. For each
+```
+Write a Sass file that creates a class for each name in the list $list-names and assigns the background image based on the name (example below):
+- You must use @import
+- You must use @each statement
+```
