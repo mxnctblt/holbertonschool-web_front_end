@@ -117,7 +117,7 @@ Write a Sass file that creates H* tags, where ‘*’ is the size of the font us
 ```
 ## Advanced Tasks
 13. Columns and operators
-file:`100-loop_col.scss`
+file: `100-loop_col.scss`
 ```
 Write a Sass file that creates classes with different width:
 - col-1 with width equals to 100%
@@ -126,4 +126,11 @@ Write a Sass file that creates classes with different width:
 - col-4 with width equals to 25%
 - You must create .col-* class from 1 to 4
 - You must use a @for statement
+```
+14. Media query #0
+file: `101-media_query.scss`
+```
+Write a Sass file that assigns:
+- Font size 20px to h1 tags
+- Font size 14px to h1 tags, when your screen width is smaller than 320px
 ```
