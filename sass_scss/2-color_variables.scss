@@ -1,0 +1,13 @@
+/* assinging many color variables */
+$colorv: #3D3D3D;
+$bgcolorv: #6D6D6D;
+body {
+    color: $colorv;
+    background-color: $bgcolorv;
+}
+p {
+    color: $colorv;
+}
+h2 {
+    background-color: $bgcolorv;
+}
