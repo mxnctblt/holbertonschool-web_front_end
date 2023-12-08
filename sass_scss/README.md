@@ -72,3 +72,11 @@ Write a Sass file that assigns:
 - When the user hovers over button tags, text color should change to #00FF00
 - You must use nested declarations
 ```
+7. Nested and nested again
+```
+Write a Sass file that assigns:
+- Font size 14px to all body tags
+- Font size 16px to all h1 tags inside body tags
+- Font size 12px to h1 tags of class .smaller inside body tags
+- You must use nested declarations
+```
