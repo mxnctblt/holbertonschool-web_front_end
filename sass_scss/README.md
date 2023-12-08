@@ -115,3 +115,15 @@ Write a Sass file that creates H* tags, where ‘*’ is the size of the font us
 - You must create H* tags from 1 to 5
 - You must use @for statement
 ```
+## Advanced Tasks
+13. Columns and operators
+file:`100-loop_col.scss`
+```
+Write a Sass file that creates classes with different width:
+- col-1 with width equals to 100%
+- col-2 with width equals to 50%
+- col-3 with width equals to 33.3333333333%
+- col-4 with width equals to 25%
+- You must create .col-* class from 1 to 4
+- You must use a @for statement
+```
