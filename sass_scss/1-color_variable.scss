@@ -1,8 +1,8 @@
-/* assigns the text color #3D3D3D to the HTML tags body and p */
+/* assigns the text color with variable*/
+$colorv: #3D3D3D;
 body {
-    color: #3D3D3D;
+    color: $colorv;
 }
-
 p {
-    color: #3D3D3D;
+    color: $colorv;
 }
