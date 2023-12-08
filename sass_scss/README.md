@@ -58,3 +58,10 @@ Write a Sass file that assigns:
 - Text color #FF0000 to any elements of class .red inside body tags
 - You must use nested declarations
 ```
+5. Nested child
+```
+Write a Sass file that assigns:
+- Text color #3D3D3D to elements inside body tags
+- Text color #FF0000 to any elements of class .red that are the first children of the body
+- You must use nested declarations
+```
