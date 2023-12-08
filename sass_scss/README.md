@@ -94,3 +94,11 @@ Write a Sass file that assigns:
 - Text color #00FF00 to all tags of class .success and extend style of the class .info
 - Text color #FF0000 to all tags of class .warning and extend style of the class .info
 ```
+10. Import colors
+```
+Write a Sass file that assigns:
+- Text color $red from 10-colors.scss to the class .red
+- Text color $green from 10-colors.scss to the class .green
+- Text color $blue from 10-colors.scss to the class .blue
+- You must use @import
+```
