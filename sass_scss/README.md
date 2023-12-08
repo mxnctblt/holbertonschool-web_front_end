@@ -108,3 +108,4 @@ Write a Sass file that creates a class for each name in the list $list-names and
 - You must use @import
 - You must use @each statement
 ```
+12. Loop Headers
