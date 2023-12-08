@@ -51,3 +51,10 @@ Write a Sass file that assigns:
 - Margin 10px to all of the p tags inside body tags
 - You must use nested declarations
 ```
+4. Nested class
+```
+Write a Sass file that assigns:
+- Text color #3D3D3D to elements inside body tags
+- Text color #FF0000 to any elements of class .red inside body tags
+- You must use nested declarations
+```
