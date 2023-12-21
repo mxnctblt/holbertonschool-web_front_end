@@ -16,7 +16,7 @@
 /* Variables
    ============================= */
 
-:root {
+   :root {
     --color-primary: #D73953;
     --color-black:  #090909;
     --color-white: #ffffff;
@@ -191,14 +191,7 @@ ul.row {
     list-style: none;
 }
 
-.row::after {
-    content: '';
-    display: table;
-    clear: both;
-}
-
 [class*='col-'] {
-    float: left;
     padding: 0.5rem;
 }
 
