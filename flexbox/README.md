@@ -139,3 +139,9 @@ in 6-styles.css, inside the /* Navbarsection
     - In the variables section
         - Change the value of the variable nav-item-margin to be 0 0 0 2rem
 ```
+7. Align center logo and navbar
+```
+Using the files from the previous task for this task:
+
+In 7-styles.css, inside the /* Header section, in the header-container class selector, set the property align-items to center
+```
