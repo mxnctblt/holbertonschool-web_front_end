@@ -321,3 +321,10 @@ Target the after pseudo element on the li inside tag-list class
 Target the after pseudo element of the last-child on the li inside tag-list class
     - Property: content, Value: empty
 ```
+14. Add the share social icons
+```
+In your 14-article.html, inside the post-share div
+    - Copy paste the social nav list (already existing in the footer) inside
+    - Remove the li with Instagram (3rd one)
+    - Replace the href in the links with a default value ( #)
+```
