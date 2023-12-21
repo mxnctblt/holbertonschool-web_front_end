@@ -157,3 +157,10 @@ In 8-styles.cssInside the /* Section HERO section
         - Property: justify-content, Value: center
         - Property: min-height, Value: 50vh
 ```
+9. Better alignment about us
+```
+Using the files from the previous task for this task:
+
+In 9-styles.css, after the /* Section SERVICES section, create a /* Section ABOUT US section. Inside that new section, target all classes that begin with col- inside section-about-us class
+    - Property: align-self, Value: center
+```
