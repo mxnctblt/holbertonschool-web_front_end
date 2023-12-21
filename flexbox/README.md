@@ -164,3 +164,24 @@ Using the files from the previous task for this task:
 In 9-styles.css, after the /* Section SERVICES section, create a /* Section ABOUT US section. Inside that new section, target all classes that begin with col- inside section-about-us class
     - Property: align-self, Value: center
 ```
+10. Creating an article by fixing issues and updating hero styles
+```
+Using the CSS file from the previous task and article.html (provided above in the project description) for this task:
+
+In 10-styles.css, inside the /* Section HERO section
+
+After the .section-hero, add a new hero-homepage class selector (you will need to add that class later in your html files)
+
+Move all declarations inside section-hero inside the new hero-homepage class selector
+
+Inside section-hero class selector
+    - Property: position, Value: relative
+    - Property: margin-top, Value: -8.5rem
+
+Below, target .section-body inside section-hero class
+    - Property: padding, Value: 10rem 4rem
+
+Below, target .section-category inside section-hero class
+    - Property: color, Value: point to the variable color-white
+    - Property: text-transform, Value: uppercase
+```
