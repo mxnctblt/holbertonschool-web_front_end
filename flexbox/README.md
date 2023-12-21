@@ -126,3 +126,16 @@ In your 5-styles.css file,
             - header-logo-link-top
             - header-logo-link-left
 ```
+6. Flexify the navbar
+```
+Using the files from the previous task for this task:
+
+in 6-styles.css, inside the /* Navbarsection
+    - In the nav class selector
+        - Property: display, Value: flex
+    - Inside the .nav .nav-item selector, remove the display declaration
+    - Target .nav-item + .nav-item inside nav class
+        - Move the margin declaration from .nav .nav-item inside the new selector.
+    - In the variables section
+        - Change the value of the variable nav-item-margin to be 0 0 0 2rem
+```
