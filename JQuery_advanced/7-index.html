@@ -11,32 +11,42 @@
       crossorigin="anonymous"
     ></script>
     <script type="application/javascript">
-        const createSearchForm = () => {
-            $("body").append(
-            "<input type='text'>" +
-                "<input class='submit' type='submit'>" +
-                "<ul>"
-            )
-            $(".submit").click(function () {
-            queryWikipedia($("input:nth-of-type(1)").val())
+        function createSearchForm() {
+            $('body').append(`
+            <input type='text'>
+            <input type='submit'>
+            <ul></ul>
+            `);
+            $('input:last').click(function () {
+                queryWikipedia($('input:first').val());
             })
         }
-        const addNewArticle = (id, title, snippet) => {
-            const li =
-            `<li>` + `<p><span>${id} - <b>${title}</b></span>` + `<p>${snippet}`
-            $("ul").append(li)
+
+        function addNewArticle(id, title, snippet) {
+            $('ul').append('<li><p><span>' + id + ' - <b>' + title +
+                '</b></span><p>' + snippet);
         }
-        const queryWikipedia = (search) => {
-            $.ajax({
-            dataType: "json",
-            url: `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${search}&format=json&callback=?`,
-            success: function (res) {
-                if (res.error) return console.log("Empty search!")
-                res.query.search.forEach(({ pageid, title, snippet }) =>
-                addNewArticle(pageid, title, snippet)
-                )
-            },
-            })
+
+        function queryWikipedia(search) {
+			var url = "https://en.wikipedia.org/w/api.php"; 
+			var params = {
+				action: "query",
+				list: "search",
+				srsearch: search,
+				format: "json"
+			};
+
+			url = url + "?origin=*";
+			Object.keys(params).forEach(function(key){url += "&" + key + "=" + params[key];});
+
+			fetch(url)
+				.then(function(response){return response.json();})
+				.then(function(response) {
+					response.query.search.forEach(function ({ pageid, title, snippet }) {
+						addNewArticle(pageid, title, snippet);
+					})
+				})
+				.catch(function(error){console.log(error);});
         }
         $(document).ready(function () {
             createSearchForm();
