@@ -24,3 +24,9 @@
   - It should create a DOM element p
   - It should set the inner html with Cookies: and the value of the cookie
   - It should append the paragraph at the bottom of the page
+
+1. Create cookie with expiration date and specific path
+   In a file 1-index.html:
+
+- Reuse the code of the previous task
+- Modify the way you are setting cookies to expire in 10 days
