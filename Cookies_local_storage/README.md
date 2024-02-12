@@ -30,3 +30,14 @@
 
 - Reuse the code of the previous task
 - Modify the way you are setting cookies to expire in 10 days
+
+2. Read cookie
+   In a file 2-index.html:
+
+- Reuse the code of the previous task
+- Create a function getCookie:
+  - It accepts name as argument
+  - It should return the value of the cookie with the name passed in argument
+  - If the cookie does not exist, it should return an empty string
+- Modify the function showCookies:
+  - It should display the paragraph Email: EMAIL - Firstname: FIRSTNAME
